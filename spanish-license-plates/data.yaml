@@ -1,0 +1,12 @@
+names:
+- License-Plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: spanish-license-plates
+  url: https://universe.roboflow.com/licenseplates-h9qfr/spanish-license-plates/dataset/3
+  version: 3
+  workspace: licenseplates-h9qfr
+test: test/images
+train: train/images
+val: valid/images
